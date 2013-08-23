@@ -11,4 +11,5 @@ func main() {
 	fifteens_sum := project_euler_utils.DivisibleSumLessThan(1000, 15)
 	sum := threes_sum + fives_sum - fifteens_sum
 	fmt.Printf("%d\n", sum)
+  fmt.Printf("%d\n", (3 + 4) * 2)
 }
